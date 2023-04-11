@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 
-**GitHub Stats:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1996&layout=compact)
 
